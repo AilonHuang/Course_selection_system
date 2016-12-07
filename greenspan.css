@@ -1,0 +1,56 @@
+/* This is the main layout */
+body {font: normal 83% sans-serif;}
+a {color: #0000ff;}
+h3 {margin: 0; margin-bottom: 8px;}
+
+#outside {margin: auto; width: 760px; border: solid 1px #ccc;}
+
+#permlink {margin: 0; padding:2px; text-align: right; border:solid 1px #fff;}
+#permlink a{margin-left: 5px; margin-right: 5px;}
+
+#header {margin: 0; padding: 0; border: solid 1px #fff;}
+#header h1 {margin: 0; padding: 5px;}
+
+#topnav {margin: 0; margin-bottom: 10px; padding: 5px; border: solid 1px #fff;}
+#topnav a {padding: 3px;}
+
+#left {float: left; width: 160px; border: solid 1px #fff;}
+
+#middle {margin-left: 160px; margin-right: 0px; border: solid 1px #fff;}
+
+#right {float: right; width: 184px; border: solid 1px #fff;}
+
+#footer {clear: both; margin: 0; text-align: left; border: solid 1px #fff;}
+#footer h5 {margin: 0;}
+
+.box {width: 92%; margin: auto; margin-bottom: 10px; padding: 5px; border: solid 1px #666;}
+
+/* These aer used to colorize the page*/
+body {background-color: #d1d1d1;}
+h3 {color: #5a6156; padding-bottom: 3px; border-bottom: solid 2px #ccc;}
+h5 {padding-left: 5px; color: #5a6156;}
+
+#outside {background-color: #d5ddcd; border: solid 1px #aaa;}
+
+#permlink {border: solid 1px #30392c; background-color: #30392c;}
+#permlink a {text-decoration: none; color: #d5ddcd;}
+#permlink a:hover {text-decoration: underline;}
+
+#header {border: solid 1px #781000; background-color: #781000;}
+#header h1 {color: #d5ddcd;}
+#topnav {border: solid 1px #5a6156; background-color: #5a6156;}
+#topnav a {border: solid 1px #5a6156; text-decoration: none; background-color: #5a6156; color: #d5ddcd;}
+#topnav a:hover {border: solid 1px #d5ddcd; background-color: #d5ddcd; color: #781000;}
+
+#left {border: solid 1px #d5ddcd;}
+
+#middle {border: solid 1px #d5ddcd;}
+
+#right {border: solid 1px #d5ddcd;}
+
+#footer {border: solid 1px #d5ddcd;}
+
+.box {background-color: #fff; border: solid 1px #ccc;}
+.box a {text-decoration: none; color: #781000;}
+.box a:hover {text-decoration: underline;}
+.box ul {margin: 0; padding-left: 15px; list-style: circle;}

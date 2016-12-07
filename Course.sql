@@ -1,0 +1,9 @@
+INSERT INTO `course`(`CouNo`, `CouName`, `Kind`, `Credit`, `Teacher`, `DepartNo`, `SchoolTime`, `LimitNum`, `ChooseNum`) VALUES ('003','网络信息检索原理与技术','信息技术','2','李涛','01','周二晚',25,0);
+INSERT INTO `course`(`CouNo`, `CouName`, `Kind`, `Credit`, `Teacher`, `DepartNo`, `SchoolTime`, `LimitNum`, `ChooseNum`) VALUES ('004','Linux操作系统','信息技术','2','郑星','01','周二5-6节',25,0);
+INSERT INTO `course`(`CouNo`, `CouName`, `Kind`, `Credit`, `Teacher`, `DepartNo`, `SchoolTime`, `LimitNum`, `ChooseNum`) VALUES ('005','Premiere6.0影视制作','信息技术','2','李韵听','01','周二5-6节',25,0);
+INSERT INTO `course`(`CouNo`, `CouName`, `Kind`, `Credit`, `Teacher`, `DepartNo`, `SchoolTime`, `LimitNum`, `ChooseNum`) VALUES ('006','Director动画电影设计与制作','信息技术','2','陈子翼','01','周二5-6节',25,0);
+INSERT INTO `course`(`CouNo`, `CouName`, `Kind`, `Credit`, `Teacher`, `DepartNo`, `SchoolTime`, `LimitNum`, `ChooseNum`) VALUES ('007','Delphi初级程序员','信息技术','2','李兰','01','周二5-6节',25,0);
+INSERT INTO `course`(`CouNo`, `CouName`, `Kind`, `Credit`, `Teacher`, `DepartNo`, `SchoolTime`, `LimitNum`, `ChooseNum`) VALUES ('008','ASP.NET应用','信息技术','3','曾建华','01','周二5-6节',25,0);
+INSERT INTO `course`(`CouNo`, `CouName`, `Kind`, `Credit`, `Teacher`, `DepartNo`, `SchoolTime`, `LimitNum`, `ChooseNum`) VALUES ('009','水资源利用与管理保护','工程技术','2','叶艳茵','01','周二晚',25,0);
+INSERT INTO `course`(`CouNo`, `CouName`, `Kind`, `Credit`, `Teacher`, `DepartNo`, `SchoolTime`, `LimitNum`, `ChooseNum`) VALUES ('010','中级电工理论','工程技术','3','范敬丽','01','周二晚',25,0);
+INSERT INTO `course`(`CouNo`, `CouName`, `Kind`, `Credit`, `Teacher`, `DepartNo`, `SchoolTime`, `LimitNum`, `ChooseNum`) VALUES ('020','动态WEB技术（PHP）','信息技术','3','张健','01','周二5-6节',25,0);
